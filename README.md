@@ -1,9 +1,9 @@
 # Hello Vue
 
 Neste projeto estou aprendedo sobre:
-Vue CLI
-components do Vue
-tags e events binding
+#Vue CLI
+#components do Vue
+#tags e events binding
 
 
 > A Vue.js project
