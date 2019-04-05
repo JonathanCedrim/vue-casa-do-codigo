@@ -1,6 +1,8 @@
 # Hello Vue
 
-```Neste projeto estou aprendedo sobre:
+```
+Neste projeto estou aprendedo sobre:
+
 Vue CLI
 components do Vue
 tags e events binding
